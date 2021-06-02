@@ -33,8 +33,11 @@
 <div  align="center"> <img src="./img/backtest1.jpg" width = "800" height = "246" /> </div>
 
 
-* 回测服务器当前状态信息显示页面
-<div  align="center"> <img src="./img/info.png" width = "850" height = "650" /> </div>
+
+
+
+* **回测服务器当前状态信息显示页面**
+<div  align="center"> <img src="./img/info.png" width = "600" height = "450" /> </div>
 
 * 用本回测服务器做的策略回测结果
 
