@@ -33,6 +33,14 @@
 <div  align="center"> <img src="./img/backtest1.jpg" width = "800" height = "246" /> </div>
 
 
+* 回测服务器当前状态信息显示页面
+<div  align="center"> <img src="./img/info.png" width = "850" height = "650" /> </div>
+
+* 用本回测服务器做的策略回测结果
+
+  <div  align="center"><b>策略思想：15个主流币种轮动，选涨幅最好的前3个币种买入</b></div>
+  <div  align="center"> <img src="./img/H103.jpg" width = "1000" height = "450" /> </div>
+
 
 * 咨询，购买等更多细节扫描下面二维码
 
