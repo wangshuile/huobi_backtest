@@ -45,10 +45,24 @@
   <div  align="center"> <img src="./img/H103.jpg" width = "1000" height = "450" /> </div>
 
 
-* 咨询，购买等更多细节扫描下面二维码
 
+
+* **咨询，购买等更多细节扫描下面二维码**
 
 ----------------------------------------------------
+
+### 团队其他开源项目
+* [MyTT 通达信,同花顺公式指标，文华麦语言的python实现](https://github.com/mpquant/MyTT)
+
+* [Hb_Spark数字货币高速免费实时行情服务器,量化必备](https://github.com/mpquant/huobi_intf)
+
+* [hb_trade火币网交易接口API最简封装,提供现货期货合约](https://github.com/mpquant/huobi_trade)
+
+* [backtest数字货币历史回测服务器,高速内存数据库实现](https://github.com/mpquant/huobi_backtest)
+
+* [ths_trade同花顺自动化交易股票下单接口API,量化框架](https://github.com/mpquant/ths_trade)
+
+
 ### 巴特量化
 * 数字货币 股市量化工具 行情系统软件开发
 
