@@ -37,7 +37,7 @@
 
 
 * **回测服务接口帮助页面**
-<div  align="center"> <img src="./img/index.png" width = "600" height = "450" /> </div>
+<div  align="center"> <img src="./img/index.png" width = "1024" height = "768" /> </div>
 
 * **回测服务器当前状态信息显示页面**
 <div  align="center"> <img src="./img/info.png" width = "600" height = "450" /> </div>
